@@ -11,7 +11,7 @@ A clean and modern order summary card built with HTML & CSS. It displays subscri
 
 ## Live Hosting
 
-[View Live](https://your-live-link.com)
+[View Live](https://zainabshahzadidev.github.io/frontend-mentor-3-order-summary-component/)
 
 ## Preview
 
