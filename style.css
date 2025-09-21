@@ -17,7 +17,7 @@ body {
     font-family: Red Hat Display;
     width: 24%;
     background-color: white;
-    border-radius: 1.5rem;
+    border-radius: 1rem;
     overflow: hidden;
 }
 
@@ -135,11 +135,6 @@ body {
     color: hsl(223, 47%, 23%);
 }
 
-@media only screen and (max-width: 1440px) {
-    .card {
-        width: 26%;
-    }
-}
 
 @media only screen and (max-width: 1024px) {
     .card {
